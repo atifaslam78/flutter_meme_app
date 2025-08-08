@@ -1,16 +1,34 @@
-# meme_app
+**Meme App 😄📱**
 
-A new Flutter project.
+A fun and visually engaging Flutter app that fetches and displays wholesome memes using the Meme API. This app leverages real-time meme data from Reddit, displaying them in a colorful, dynamic UI with automatic background color adaptation based on the meme image.
 
-## Getting Started
+**📱 Features**
 
-This project is a starting point for a Flutter application.
+🔥 Fetches 50 random wholesome memes from Reddit.
 
-A few resources to get you started if this is your first Flutter project:
+🖼️ Beautiful card-based UI with cached network images.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🎨 Dynamically changes app background based on image colors using palette_generator.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+⚡ Smooth user experience with loading indicators.
+
+🔗 Quick access to original Reddit post via a button.
+
+💡 Uses http, cached_network_image, and palette_generator packages.
+
+🧠 **Tech Stack**
+**Language:** Dart
+
+**Framework:** Flutter
+
+**API:** Meme API
+
+**State Management:** Stateful Widgets
+
+**Packages Used:**
+
+http
+
+cached_network_image
+
+palette_generator
