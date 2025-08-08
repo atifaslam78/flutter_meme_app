@@ -17,13 +17,18 @@ A fun and visually engaging Flutter app that fetches and displays wholesome meme
 💡 Uses http, cached_network_image, and palette_generator packages.
 
 🧠 **Tech Stack**
-**Language:** Dart
 
-**Framework:** Flutter
+**Language:**
+Dart
 
-**API:** Meme API
+**Framework:**
+Flutter
 
-**State Management:** Stateful Widgets
+**API:**
+Meme API
+
+**State Management:**
+Stateful Widgets
 
 **Packages Used:**
 
